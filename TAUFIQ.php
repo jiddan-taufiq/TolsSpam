@@ -136,7 +136,7 @@ echo $BB."\n::#:Author ::[TAUFIQ MOHAMMAD] #";
 
 echo $B."\n::#:Instagram ::[ORA NDUWE:]#";
 
-echo $RR."\n::#:Github ::[http://github.com/taifiq_jiddan:] #";
+echo $RR."\n::#:Github ::[http://github.com/taufiq_jiddan:] #";
 
 echo $R."\n::#:Facebook ::[TAUFIQ MOHAMMAD:] #";
 
